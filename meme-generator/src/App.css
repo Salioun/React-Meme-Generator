@@ -1,0 +1,30 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+h4{
+  margin: 10px 0;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 25px;
+  background: linear-gradient(45deg,#672280, #A626D3);
+  color: white;
+}
+
+.header-title-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.header-img {
+  padding-right: 1rem;
+}
